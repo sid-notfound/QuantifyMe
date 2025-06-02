@@ -1,6 +1,3 @@
-# QuantifyMe
-Personal Portfolio Risk &amp; Strategy
-
 
 # QuantifyMe
 
@@ -32,7 +29,8 @@ You can install the required packages using:
 ```bash
 pip install -r requirements.txt
 
-<br>
+
+Organization: 
 
 QuantifyMe/
 ├── backend/
